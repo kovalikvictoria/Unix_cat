@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Commands.General
+namespace Unix_cat.General
 {
-    class Command
+    public abstract class Command
     {
+        public string Option;
+        public string[] parameters;
+        public abstract bool Execute();
     }
 }

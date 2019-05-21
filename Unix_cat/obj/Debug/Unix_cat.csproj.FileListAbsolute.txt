@@ -1,0 +1,10 @@
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\obj\Debug\Unix_cat.csprojAssemblyReference.cache
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\obj\Debug\Unix_cat.csproj.CoreCompileInputs.cache
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\bin\Debug\Unix_cat.exe.config
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\bin\Debug\Unix_cat.exe
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\bin\Debug\Unix_cat.pdb
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\obj\Debug\Unix_cat.exe
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\obj\Debug\Unix_cat.pdb
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\bin\Debug\Helper.dll
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\bin\Debug\Helper.pdb
+C:\Users\Vika\source\repos\Unix_cat\Unix_cat\obj\Debug\Unix_cat.csproj.CopyComplete

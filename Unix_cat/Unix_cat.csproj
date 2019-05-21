@@ -43,11 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete\Cat.cs" />
+    <Compile Include="Concrete\CatOptions.cs" />
+    <Compile Include="ConsoleMenu.cs" />
+    <Compile Include="General\Command.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Helper.txt" />
+    <Content Include="text1.txt" />
+    <Content Include="text2.txt" />
+    <Content Include="text3.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Helper\Helper.csproj">
+      <Project>{50bb8c88-b629-4e03-bc32-12704ecada2d}</Project>
+      <Name>Helper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

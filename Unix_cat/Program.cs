@@ -10,7 +10,8 @@ namespace Unix_cat
     {
         static void Main(string[] args)
         {
-            
+            ConsoleMenu.ConsoleMenu menu = new ConsoleMenu.ConsoleMenu();
+            menu.Init();
         }
     }
 }
